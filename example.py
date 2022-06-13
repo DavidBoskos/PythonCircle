@@ -58,7 +58,7 @@ print("Path from A to D", pathFromPlac1ToPlace2("AD"))
 print("Path from B to D", pathFromPlac1ToPlace2("BD"))
 
 #We imagine a circle.
-#We want to determine the shortest distance beetween to Places.
+#We want to determine the shortest distance beetween two Places.
 #We can go either way.
 #Tip1:Auxiliary functions that give all intermediate stations.
 #Tipp2:Use the Modulo  Operator to prevent Overflow.
